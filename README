@@ -1,0 +1,14 @@
+	*** time server ***
+
+Author: Tr.Vlad
+Date: 25.02.2017
+Description:
+	remote display online time
+
+Install:
+
+Makefile:
+$ make
+
+Manual:
+$ gcc time-server.c -o time-server
